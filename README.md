@@ -1,4 +1,25 @@
-### Hi there 👋
+### Rodrigo Leite
+
+Hi, I'm Rodrigo Leite (he/him), a Software Engineer from Brazil, currently working on open source software at [Cambiatus](https://github.com/cambiatus/). My favorite hobbies are programming and video games, and integrating both is how my programming career started (check out [Weeb Bot](https://github.com/RodrigoLeiteF/WeebBot-v2)). Currently in love with Elm and Elixir.
+
+## 🔭 Currently working on
+
+- Cambiatus: An open source social currency platform
+- Weeb Bot: Discord bot for Phantasy Star Online 2 players
+- Gamelog: A Last.fm-like platform to log your progress and thoughts on video games
+
+## 💬 Ask me about
+
+- TypeScript
+- Elm
+- Emacs
+- Final Fantasy XIV lore
+
+## 📫 Get in touch
+
+- Email: rodrigo@leite.dev
+- Blog: https://leite.dev
+- Discord: Kaze#3067
 
 <!--
 **RodrigoLeiteF/RodrigoLeiteF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
