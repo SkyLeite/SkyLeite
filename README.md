@@ -4,9 +4,15 @@ Hi, I'm Rodrigo Leite (he/him), a Software Engineer from Brazil, currently worki
 
 ## 🔭 Currently working on
 
-- Cambiatus: An open source social currency platform
 - Weeb Bot: Discord bot for Phantasy Star Online 2 players
 - Gamelog: A Last.fm-like platform to log your progress and thoughts on video games
+- Secret project :)
+
+## 🌱 Currently learning
+
+- Elixir
+- Haskell
+- Elm
 
 ## 💬 Ask me about
 
