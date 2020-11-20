@@ -1,6 +1,6 @@
 ### Rodrigo Leite
 
-Hi, I'm Rodrigo Leite (he/him), a Software Engineer from Brazil, currently working on open source software at [Cambiatus](https://github.com/cambiatus/). My favorite hobbies are programming and video games, and integrating both is how my programming career started (check out [Weeb Bot](https://github.com/RodrigoLeiteF/WeebBot-v2)). Currently in love with Elm and Elixir.
+Hi, I'm Rodrigo Leite (he/him), a Software Engineer from Brazil, currently working as a freelancer. My favorite hobbies are programming and video games, and integrating both is how my programming career started (check out [Weeb Bot](https://github.com/RodrigoLeiteF/WeebBot-v2)). Currently in love with Elm and Elixir.
 
 ## 🔭 Currently working on
 
