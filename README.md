@@ -1,6 +1,6 @@
 ### Sky Leite
 
-Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working at [FutureFeed](https://futurefeed.co/). My favorite hobbies are programming and video games, and integrating both is how my programming career started (check out [Weeb Bot](https://github.com/RodrigoLeiteF/WeebBot-v2)). Currently in love with Elm and Elixir.
+Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working at [ActiveState](https://www.activestate.com/). My favorite hobbies are programming and video games, and integrating both is how my programming career started (check out [Weeb Bot](https://github.com/SkyLeite/WeebBot-v2)). Currently in love with Elm and Elixir.
 
 ## 🔭 Currently working on
 
@@ -26,18 +26,3 @@ Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working 
 - Email: sky@leite.dev
 - Blog: https://leite.dev
 - Discord: Kaze#3067
-
-<!--
-**RodrigoLeiteF/RodrigoLeiteF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
