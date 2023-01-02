@@ -4,15 +4,11 @@ Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working 
 
 ## 🔭 Currently working on
 
-- Weeb Bot: Discord bot for Phantasy Star Online 2 players
-- Gamelog: A Last.fm-like platform to log your progress and thoughts on video games
-- Secret project :)
+- Wine Manager: a plugin for SteamOS / Steam Deck for installing and managing custom versions of Wine / Proton
 
 ## 🌱 Currently learning
 
-- Elixir
 - Haskell
-- Elm
 
 ## 💬 Ask me about
 
@@ -25,4 +21,4 @@ Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working 
 
 - Email: sky@leite.dev
 - Blog: https://leite.dev
-- Discord: Kaze#3067
+- Discord: Sky Leite#3067
