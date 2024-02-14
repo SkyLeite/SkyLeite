@@ -1,6 +1,6 @@
 ### Sky Leite
 
-Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working at [ActiveState](https://www.activestate.com/). My favorite hobbies are programming and video games, and integrating both is how my programming career started (check out [Weeb Bot](https://github.com/SkyLeite/WeebBot-v2)). Currently in love with Elm and Elixir.
+Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working at [ActiveState](https://www.activestate.com/). My favorite hobbies are programming and video games, and integrating both is how my programming career started (check out [Weeb Bot](https://github.com/SkyLeite/WeebBot-v2)). Currently in love with Elm, Rust and Reverse Engineering.
 
 ## 🔭 Currently working on
 
@@ -10,6 +10,7 @@ Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working 
 
 - Haskell
 - Reverse Engineering
+- Rust
 
 ## 💬 Ask me about
 
