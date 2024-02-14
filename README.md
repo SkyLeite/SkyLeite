@@ -4,12 +4,12 @@ Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working 
 
 ## 🔭 Currently working on
 
-- Wine Manager: a plugin for SteamOS / Steam Deck for installing and managing custom versions of Wine / Proton
-- DeFi: something cool for the Steam Deck
+- A mod for Umineko Golden Fantasia
 
 ## 🌱 Currently learning
 
 - Haskell
+- Reverse Engineering
 
 ## 💬 Ask me about
 
