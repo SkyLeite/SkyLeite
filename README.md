@@ -23,4 +23,4 @@ Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil, currently working 
 
 - Email: sky@leite.dev
 - Blog: https://leite.dev
-- Discord: Sky Leite#3067
+- Discord: i3wm
