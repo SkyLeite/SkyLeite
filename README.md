@@ -4,11 +4,11 @@ Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil. My favorite hobbie
 
 ## 🔭 Currently working on
 
-- A mod for Umineko Golden Fantasia
+- Umineko Golden Fantasia: Community Edition
+- Sonic Robo Blast 2 port for the PS Vita
 
 ## 🌱 Currently learning
 
-- Haskell
 - Reverse Engineering
 - Rust
 
