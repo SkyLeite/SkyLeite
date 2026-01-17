@@ -5,7 +5,7 @@ Hi, I'm Sky Leite (she/her), a Software Engineer from Brazil. My favorite hobbie
 ## 🔭 Currently working on
 
 - Umineko Golden Fantasia: Community Edition
-- Sonic Robo Blast 2 port for the PS Vita
+- Doujin Fighting Game engine
 
 ## 🌱 Currently learning
 
